@@ -1,0 +1,6 @@
+﻿  algo6.cpp
+c:\users\ivan\source\repos\algo6\algo6\algo6.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ivan\source\repos\algo6\algo6\algo6.cpp(224): warning C4101: x: неиспользованная локальная переменная
+c:\users\ivan\source\repos\algo6\algo6\algo6.cpp(362): warning C4101: ans: неиспользованная локальная переменная
+c:\users\ivan\source\repos\algo6\algo6\algo6.cpp(410): warning C4018: <: несоответствие типов со знаком и без знака
+  algo6.vcxproj -> C:\Users\Ivan\source\repos\algo6\Debug\algo6.exe
